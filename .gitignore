@@ -153,3 +153,4 @@ cython_debug/
 
 .vscode
 .env
+**/node_modules
